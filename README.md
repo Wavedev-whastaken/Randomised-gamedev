@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 
+Important! Trust only commits with proof and are verified; if they’re not, they may be hacked.
 
 Here are some ideas to get you started:
 
@@ -13,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: am a gamedev and i dont have any games yet
 -->
+
