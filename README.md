@@ -5,7 +5,7 @@ Important! Trust only commits with proof and are verified; if they’re not, the
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on game engine
+- 🔭 I’m currently working on game engine , FPK FPK-linux
 - 🌱 I’m currently learning python rust
 - 👯 I’m looking to collaborate on c++/c stuff or rust or python
 - 🤔 I’m looking for help with anything
