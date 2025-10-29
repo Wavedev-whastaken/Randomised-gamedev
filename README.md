@@ -1,17 +1,40 @@
-## Hi there 👋
+# Hey, I’m **Wavedev**  
+  Game Developer · C Programmer · Open-Source Enthusiast  
 
+> I **hate `.md` files a lot**, so I let AI make this for me  
 
-Important! Trust only commits with proof and are verified; if they’re not, they may be hacked.
+[![GitHub followers](https://img.shields.io/github/followers/Wavedev-whastaken?style=social)](https://github.com/Wavedev-whastaken)  
+[![GitHub stars](https://img.shields.io/github/stars/Wavedev-whastaken?style=social)](https://github.com/Wavedev-whastaken)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on game engine , FPK FPK-linux
-- 🌱 I’m currently learning python rust
-- 👯 I’m looking to collaborate on c++/c stuff or rust or python
-- 🤔 I’m looking for help with anything
-- 💬 Ask me about how i feel
-- 📫 How to reach me: just dm me on discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: am a gamedev and i dont have any games yet
--->
+## About Me  
+- Passionate about **game development** and **C projects**.    
+- I **really hate writing `.md`**, but AI saved me here 
 
+---
+
+## Projects I’m Proud Of  
+- [FPK](https://github.com/Wavedev-whastaken/FPK) – Free Packing Tool for developers.  
+- [FPK-linux](https://github.com/Wavedev-whastaken/FPK-linux) – Native Linux version of FPK.  
+---
+
+## Skills & Tools  
+| Game Dev | Programming | Tools |
+|----------|------------|-------|
+| Godot | C  · gd script| Git - not the best · VS Code · Blender |
+
+---
+
+## What I’m Doing Now  
+- Making games and tools using **C** and modern engines.  
+- Optimizing code for speed and performance.  
+- Contributing to open-source projects (because AI said I should).  
+
+---
+
+## Contact Me  
+- Discord: `rnggamedev` (ID: `1295018506429141144`)  
+- GitHub: [Wavedev-whastaken](https://github.com/Wavedev-whastaken)  
+- DEV.to: [Wavedev](https://dev.to/wavedev)  
+- YouTube: [@Wavedev](https://www.youtube.com/channel/UCWYb5qGL6jItohy0ywsMAiQ)  
